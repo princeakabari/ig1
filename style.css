@@ -10,12 +10,12 @@
 :: Import All CSS
 -------------- */
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css);
-@import url(css/classy-nav.min.css);
-@import url(css/lineicons.min.css);
-@import url(css/animate.css);
-@import url(css/owl.carousel.min.css);
-@import url(css/jquery.animatedheadline.css);
-@import url(css/magnific-popup.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/classy-nav.min.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/lineicons.min.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/animate.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/owl.carousel.min.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/jquery.animatedheadline.css);
+@import url(https://raw.githubusercontent.com/princeakabari/ig1/main/css/magnific-popup.css);
 .bg-primary {
   background-color: #0d6efd !important; }
 
